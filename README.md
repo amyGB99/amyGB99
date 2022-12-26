@@ -1,11 +1,13 @@
 ### Hi there 👋
-🎓 I’m a computer science student
+🎓 I’m a computer scientist.
 
 💻 I’m a programmer and my favorite languages are Python and C#.
 
-🔭 I’m currently working with ERPNext Framework. 
+🔭 I’m an artificial intelligence researcher. 
 
-🌱 I’m currently learning about AutoML.
+🌱 I’m currently learning about AutoML systems.
+
+💡 I’m the creator of HAutoMLBench: Heterogeneous AutoML benchmark https://github.com/amyGB99/HAutoMLBench.git.
 
 👯 I’m looking to collaborate on interesting projects.
 
