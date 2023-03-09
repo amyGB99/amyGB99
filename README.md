@@ -11,7 +11,7 @@
 
 👯 I’m looking to collaborate on interesting projects.
 
-📫 How to reach me: amanda.gonzalez@gmail.com. 
+📫 How to reach me: borrellamanda99@yahoo.com. 
 <!--
 **amyGB99/amyGB99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
